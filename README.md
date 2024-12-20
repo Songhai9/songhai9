@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects and Interests:</h2>
 
 - <b>Cloud SOC project</b>
-  - [Honey pot project]([https://github.com/Songhai9/Algorithms-Practice](https://github.com/Songhai9/Cloud-SOC))
+  - [Honey pot project](https://github.com/Songhai9/Cloud-SOC)
 
 <h2>📞 Educational Background</h2>
 
