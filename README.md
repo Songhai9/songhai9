@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Oumarou! <br/><a href="https://github.com/Songhai9">Student</a>, <a href="https://www.linkedin.com/in/oumarou-maiga-b79938280/">Cybersecurity Enthusiast</a>
 
-<!--
-**Songhai9/songhai9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects and Interests:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms</b>
+  - [Practicing DS & Algos in Python](https://github.com/Songhai9/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📞 Educational Background</h2>
+
+- Currently pursuing a degree at <b>Telecom Physique Strasbourg</b>.
+- Also enrolled in a <b>Computer Science Master's Program</b> at the University of Strasbourg.
+- Focus areas include cybersecurity, software development, networking, IoT & cloud
+
+<h2>🧣 Connect with me:</h2>
+
+[<img align="left" alt="Oumarou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/oumarou-maiga-b79938280
