@@ -23,4 +23,4 @@
 [linkedin]: https://linkedin.com/in/oumarou-maiga-b79938280
 
 
-<a href="mailto:oumar.s.m@outlook.fr><b>Mail : oumar.s.m@outlook.fr</a>
+
