@@ -19,7 +19,7 @@
 <h2>🧣 Connect with me:</h2>
 <p>Feel free to connect with me for further information</p>
 
-[<img align="left" alt="Oumarou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Oumarou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [linkedin]: https://linkedin.com/in/oumarou-maiga-b79938280
 
 
