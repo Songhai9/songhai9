@@ -1,4 +1,5 @@
 <h1>Hi, I'm Oumarou! <br/><a href="https://github.com/Songhai9">Student</a>, <a href="https://www.linkedin.com/in/oumarou-maiga-b79938280/">Cybersecurity Enthusiast</a>
+I'm currently looking for a <b>20-24 week long internship</b> as I'm finishing my <b>double degree</b> (master + engineering school) in <b>computer science</b>. I’m specialized in the fields of Networking and IoT. My education includes skills in networking, systems, cloud, security and embedded systems. Ideally, I would complete my internship as a dev, in either one of the mentioned skills of my curriculum
 
 <h2>👨‍💻 Projects and Interests:</h2>
 
