@@ -4,6 +4,8 @@
 
 - <b>Cloud SOC project</b>
   - [Honey pot project](https://github.com/Songhai9/Cloud-SOC)
+- [<b>Python Automation Projects</b>](https://github.com/Songhai9/Python-Automation-App-Projects/tree/main)
+  -
 
 <h2>📞 Educational Background</h2>
 
