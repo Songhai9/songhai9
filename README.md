@@ -18,7 +18,9 @@
 
 <h2>🧣 Connect with me:</h2>
 <p>Feel free to connect with me for further information</p>
-<a href="mailto:oumar.s.m@outlook.fr><b>Mail : oumar.s.m@outlook.fr</a>
 
 [<img align="left" alt="Oumarou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://linkedin.com/in/oumarou-maiga-b79938280
+
+
+<a href="mailto:oumar.s.m@outlook.fr><b>Mail : oumar.s.m@outlook.fr</a>
