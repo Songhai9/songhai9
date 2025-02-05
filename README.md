@@ -5,11 +5,11 @@
 
 <h2>👨‍💻 Projects and Interests:</h2>
 
-- <b>Cloud SOC project</b>
+- <b>Cloud SOC project</b> :
   A project aimed at learning how to secure an environment using Azure.
   - [Honey pot project](https://github.com/Songhai9/Cloud-SOC)
     
-- [<b>Python Automation Projects</b>](https://github.com/Songhai9/Python-Automation-App-Projects/tree/main)
+- [<b>Python Automation Projects</b>](https://github.com/Songhai9/Python-Automation-App-Projects/tree/main) :
   In these projects, I use webscraping and the Selenium library in order to automate some tasks.
 
 <h2>📞 Educational Background</h2>
