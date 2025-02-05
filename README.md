@@ -4,6 +4,7 @@
 <p>I'm currently looking for a <b>20-24 week long internship</b> as I'm finishing my <b>double degree</b> (master + engineering school) in <b>computer science</b>. I’m specialized in the fields of Networking and IoT. My education includes skills in networking, systems, cloud, security and embedded systems. Alongside my education, I've also done some personal projects including a Cloud SOC project and multiple Python related project including web apps, games, API etc.. <br/>Ideally, I would complete my internship as a dev, in either one of the mentioned skills of my curriculum</p>
 
 <h2>👨‍💻 Projects and Interests:</h2>
+
 - <b>C Data Structures and Algorithms Practice</b> : School labs in which I learned everything about DSA
   - [DSA Practice](https://github.com/Songhai9/DSA-practice)
 
