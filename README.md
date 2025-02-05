@@ -12,12 +12,12 @@
   A project aimed at learning how to secure an environment using Azure.
   - [Honey pot project](https://github.com/Songhai9/Cloud-SOC)
 
-- Python projects <br/>
+- <b>Python projects</b> <br/>
 On top of my education, I furthered my mastery of Python by going through a course conducted by Angela Yu. Here you can find all the projects that were done, going from data analysis, to GUI, to Web development and automation. <br/>
-  - [<b>OOP Games</b>](https://github.com/Songhai9/OOP-Games.git) : These projects were used to learn OOP programming with Python through re-creating games
-  - [<b>GUI Apps</b>](https://github.com/Songhai9/GUI-Apps.git) : Python Apps that are integrated with a GUI
-  - [<b>API Programming</b>](https://github.com/Songhai9/API-Programming/tree/main) : These projects were made to learn how to interact with REST APIs using Python.
-  - [<b>Python Automation Projects</b>](https://github.com/Songhai9/Python-Automation-App-Projects/tree/main) :
+  - [OOP Games](https://github.com/Songhai9/OOP-Games.git) : These projects were used to learn OOP programming with Python through re-creating games
+  - [GUI Apps](https://github.com/Songhai9/GUI-Apps.git) : Python Apps that are integrated with a GUI
+  - [API Programming](https://github.com/Songhai9/API-Programming/tree/main) : These projects were made to learn how to interact with REST APIs using Python.
+  - [Python Automation Projects](https://github.com/Songhai9/Python-Automation-App-Projects/tree/main) :
     In these projects, I use webscraping and the Selenium library in order to automate some tasks.
 
 <h2>📞 Educational Background</h2>
