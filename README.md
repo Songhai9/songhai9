@@ -5,16 +5,16 @@
 
 <h2>👨‍💻 Projects and Interests:</h2>
 
+- <b>Cloud SOC project</b> :
+  A project aimed at learning how to secure an environment using Azure.
+  - [Honey pot project](https://github.com/Songhai9/Cloud-SOC)
+
 - <b>C Data Structures and Algorithms Practice</b> : School labs in which I learned everything about DSA
   - [DSA Practice](https://github.com/Songhai9/DSA-practice)
 
 - <b> School Projects </b>
   - [Packet Sniffer in C](https://github.com/Songhai9/Packet-sniffer)
   - [Breakout game in C](https://github.com/Songhai9/Breakout-remake-cpp)
-
-- <b>Cloud SOC project</b> :
-  A project aimed at learning how to secure an environment using Azure.
-  - [Honey pot project](https://github.com/Songhai9/Cloud-SOC)
 
 - <b>Python projects</b> <br/>
 On top of my education, I furthered my mastery of Python by going through a course conducted by Angela Yu. Here you can find all the projects that were done, going from data analysis, to GUI, to Web development and automation. <br/>
