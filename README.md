@@ -24,7 +24,7 @@ On top of my education, I furthered my mastery of Python by going through a cour
     - [Habit Tracker](https://github.com/Songhai9/Habits-Tracker)
     - [GUI Quiz App](https://github.com/Songhai9/GUI-Quiz-App)
     - [Other REST API Projects](https://github.com/Songhai9/API-Programming/tree/main)
-    </br></br>
+    </br>
   - <b>Python Automation Projects</b> :
     </br>
     In these projects, I use webscraping with the BeautifulSoup library and the Selenium library in order to automate some tasks.
