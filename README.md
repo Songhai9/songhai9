@@ -8,14 +8,7 @@
 - <b>Cloud SOC project</b> :
   A project aimed at learning how to secure an environment using Azure.
   - [Honey pot project](https://github.com/Songhai9/Cloud-SOC)
-
-- <b>C Data Structures and Algorithms Practice</b> : School labs in which I learned everything about DSA
-  - [DSA Practice](https://github.com/Songhai9/DSA-practice)
-
-- <b> School Projects </b>
-  - [Packet Sniffer in C](https://github.com/Songhai9/Packet-sniffer)
-  - [Breakout game in C](https://github.com/Songhai9/Breakout-remake-cpp)
-
+ 
 - <b>Python projects</b> <br/>
 On top of my education, I furthered my mastery of Python by going through a course conducted by Angela Yu. Here you can find all the projects that were done, going from data analysis, to GUI, to Web development and automation. <br/>
   - [OOP Games](https://github.com/Songhai9/OOP-Games.git) : These projects were used to learn OOP programming with Python through re-creating games
@@ -35,6 +28,14 @@ On top of my education, I furthered my mastery of Python by going through a cour
     - [Spotify Playlist with Musical Time Machine](https://github.com/Songhai9/Spotify-Playlist-with-Musical-Time-Machine)
     - [Internet Speed Twitter Complaint Bot](https://github.com/Songhai9/Internet-Speed-Twitter-Complaint-Bot)
     - [Other Automation Programs](https://github.com/Songhai9/Python-Automation-App-Projects/tree/main)
+
+- <b>C Data Structures and Algorithms Practice</b> : School labs in which I learned everything about DSA
+  - [DSA Practice](https://github.com/Songhai9/DSA-practice)
+
+- <b> School Projects </b>
+  - [Packet Sniffer in C](https://github.com/Songhai9/Packet-sniffer)
+  - [Breakout game in C](https://github.com/Songhai9/Breakout-remake-cpp)
+
 
 <h2>📞 Educational Background</h2>
 
