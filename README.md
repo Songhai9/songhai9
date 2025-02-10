@@ -20,7 +20,13 @@
 On top of my education, I furthered my mastery of Python by going through a course conducted by Angela Yu. Here you can find all the projects that were done, going from data analysis, to GUI, to Web development and automation. <br/>
   - [OOP Games](https://github.com/Songhai9/OOP-Games.git) : These projects were used to learn OOP programming with Python through re-creating games
   - [GUI Apps](https://github.com/Songhai9/GUI-Apps.git) : Python Apps that are integrated with a GUI
-  - [API Programming](https://github.com/Songhai9/API-Programming/tree/main) : These projects were made to learn how to interact with REST APIs using Python.
+  </br></br>
+  - <b>API Programming</b> :</br>
+  These projects were made to learn how to interact with REST APIs using Python.
+    - [Workout Tracker](https://github.com/Songhai9/Workout-Tracker)
+    - [Habit Tracker](https://github.com/Songhai9/Habits-Tracker)
+    - [GUI Quiz App](https://github.com/Songhai9/GUI-Quiz-App)
+    - [Other REST API Projects](https://github.com/Songhai9/API-Programming/tree/main)
     </br></br>
   - <b>Python Automation Projects</b> :
     </br>
