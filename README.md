@@ -15,9 +15,7 @@ On top of my education, I furthered my mastery of Python by going through a cour
   - <b>GUI Apps</b> :</br>The projects use Tkinter in order to create Apps relying on a GUI
     - [GUI Quiz App](https://github.com/Songhai9/GUI-Apps)
     - [Other GUI Apps](https://github.com/Songhai9/GUI-Apps)
-      
-  - Python Apps that are integrated with a GUI
-  </br></br>
+  </br>
   - <b>API Programming</b> :</br>
   These projects were made to learn how to interact with REST APIs using Python.
     - [Workout Tracker](https://github.com/Songhai9/Workout-Tracker)
