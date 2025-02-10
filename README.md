@@ -23,9 +23,7 @@ On top of my education, I furthered my mastery of Python by going through a cour
     - [GUI Quiz App](https://github.com/Songhai9/GUI-Quiz-App)
     - [Other REST API Projects](https://github.com/Songhai9/API-Programming/tree/main)
     </br>
-  - <b>Python Automation Projects</b> :
-    </br>
-    In these projects, I use webscraping with the BeautifulSoup library and the Selenium library in order to automate some tasks.
+  - <b>Python Automation Projects</b> :</br>In these projects, I use webscraping with the BeautifulSoup library and the Selenium library in order to automate some tasks.
     - [Amazon Automated Price Tracker](https://github.com/Songhai9/Amazon-Automated-Price-Tracker)
     - [Spotify Playlist with Musical Time Machine](https://github.com/Songhai9/Spotify-Playlist-with-Musical-Time-Machine)
     - [Internet Speed Twitter Complaint Bot](https://github.com/Songhai9/Internet-Speed-Twitter-Complaint-Bot)
