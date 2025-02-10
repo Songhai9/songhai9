@@ -12,11 +12,10 @@
 - <b>Python projects</b> <br/>
 On top of my education, I furthered my mastery of Python by going through a course conducted by Angela Yu. Here you can find all the projects that were done, going from data analysis, to GUI, to Web development and automation. <br/>
   - [OOP Games](https://github.com/Songhai9/OOP-Games.git) : These projects were used to learn OOP programming with Python through re-creating games
-  - <b>GUI Apps</b> :
-  </br>
-    The projects use Tkinter in order to create Apps relying on a GUI
+  - <b>GUI Apps</b> :</br>The projects use Tkinter in order to create Apps relying on a GUI
     - [GUI Quiz App](https://github.com/Songhai9/GUI-Apps)
-    - [Other GUI Apps](https://github.com/Songhai9/GUI-Apps.git)
+    - [Other GUI Apps](https://github.com/Songhai9/GUI-Apps)
+      
   - Python Apps that are integrated with a GUI
   </br></br>
   - <b>API Programming</b> :</br>
