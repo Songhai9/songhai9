@@ -21,9 +21,12 @@ On top of my education, I furthered my mastery of Python by going through a cour
   - [OOP Games](https://github.com/Songhai9/OOP-Games.git) : These projects were used to learn OOP programming with Python through re-creating games
   - [GUI Apps](https://github.com/Songhai9/GUI-Apps.git) : Python Apps that are integrated with a GUI
   - [API Programming](https://github.com/Songhai9/API-Programming/tree/main) : These projects were made to learn how to interact with REST APIs using Python.
-  - [Python Automation Projects](https://github.com/Songhai9/Python-Automation-App-Projects/tree/main) :
+  - Python Automation Projects :
     In these projects, I use webscraping with the BeautifulSoup library and the Selenium library in order to automate some tasks.
     - [Amazon Automated Price Tracker](https://github.com/Songhai9/Amazon-Automated-Price-Tracker)
+    - [Spotify Playlist with Musical Time Machine](https://github.com/Songhai9/Spotify-Playlist-with-Musical-Time-Machine)
+    - [Internet Speed Twitter Complaint Bot](https://github.com/Songhai9/Internet-Speed-Twitter-Complaint-Bot)
+    - [Other Automation Programs](https://github.com/Songhai9/Python-Automation-App-Projects/tree/main)
 
 <h2>📞 Educational Background</h2>
 
