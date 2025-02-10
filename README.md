@@ -16,8 +16,7 @@ On top of my education, I furthered my mastery of Python by going through a cour
     - [GUI Quiz App](https://github.com/Songhai9/GUI-Apps)
     - [Other GUI Apps](https://github.com/Songhai9/GUI-Apps)
   </br>
-  - <b>API Programming</b> :</br>
-  These projects were made to learn how to interact with REST APIs using Python.
+  - <b>API Programming</b> :</br>These projects were made to learn how to interact with REST APIs using Python.
     - [Workout Tracker](https://github.com/Songhai9/Workout-Tracker)
     - [Habit Tracker](https://github.com/Songhai9/Habits-Tracker)
     - [GUI Quiz App](https://github.com/Songhai9/GUI-Quiz-App)
