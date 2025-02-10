@@ -23,6 +23,7 @@ On top of my education, I furthered my mastery of Python by going through a cour
   - [API Programming](https://github.com/Songhai9/API-Programming/tree/main) : These projects were made to learn how to interact with REST APIs using Python.
   - [Python Automation Projects](https://github.com/Songhai9/Python-Automation-App-Projects/tree/main) :
     In these projects, I use webscraping with the BeautifulSoup library and the Selenium library in order to automate some tasks.
+    - [Amazon Automated Price Tracker](https://github.com/Songhai9/Amazon-Automated-Price-Tracker)
 
 <h2>📞 Educational Background</h2>
 
