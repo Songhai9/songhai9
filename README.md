@@ -8,6 +8,14 @@
   A project aimed at learning how to secure an environment using Azure.
   - <a href="https://github.com/Songhai9/Cloud-SOC">Honey pot project</a>
 
+- <b>C Data Structures and Algorithms Practice</b>: School labs in which I learned everything about DSA
+  - <a href="https://github.com/Songhai9/DSA-practice">DSA Practice</a>
+
+- <b>School Projects</b>
+  - <a href="https://github.com/Songhai9/Packet-sniffer">Packet Sniffer in C</a>
+  - <a href="https://github.com/Songhai9/Breakout-remake-cpp">Breakout game in C</a>
+
+
 - <b>Python projects</b> <br/>
   On top of my education, I furthered my mastery of Python by going through a course conducted by Angela Yu. Here you can find all the projects that were done, going from data analysis, to GUI, to Web development, and automation.<br/>
 
@@ -29,13 +37,6 @@
     - <a href="https://github.com/Songhai9/Spotify-Playlist-with-Musical-Time-Machine">Spotify Playlist with Musical Time Machine</a>
     - <a href="https://github.com/Songhai9/Internet-Speed-Twitter-Complaint-Bot">Internet Speed Twitter Complaint Bot</a>
     - <a href="https://github.com/Songhai9/Python-Automation-App-Projects/tree/main">Other Automation Programs</a>
-
-- <b>C Data Structures and Algorithms Practice</b>: School labs in which I learned everything about DSA
-  - <a href="https://github.com/Songhai9/DSA-practice">DSA Practice</a>
-
-- <b>School Projects</b>
-  - <a href="https://github.com/Songhai9/Packet-sniffer">Packet Sniffer in C</a>
-  - <a href="https://github.com/Songhai9/Breakout-remake-cpp">Breakout game in C</a>
 
 <h2>📞 Educational Background</h2>
 
