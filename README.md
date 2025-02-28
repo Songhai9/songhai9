@@ -8,6 +8,10 @@
   A project aimed at learning how to secure an environment using Azure.
   - <a href="https://github.com/Songhai9/Cloud-SOC">Honey pot project</a>
 
+- <b>Implementing a Cloud native CI/CD pipeline with AWS</b>
+  In this project, I learned how to develop an architecture in AWS using Terraform, and using GitHub Actions to create a pipeline.
+  - <a href="https://github.com/Songhai9/cloud-native-ci-cd-aws">AWS CI/CD Pipeline project</a>
+
 - <b>C Data Structures and Algorithms Practice</b>: School labs in which I learned everything about DSA
   - <a href="https://github.com/Songhai9/DSA-practice">DSA Practice</a>
 
