@@ -48,7 +48,7 @@
 - Also enrolled in a <b>Computer Science Master's Program</b> at the University of Strasbourg.
 - Focus areas include cybersecurity, software development, networking, IoT & cloud.
 
-<h2>>📞 Connect with me:</h2>
+<h2>📞 Connect with me:</h2>
 <p>Feel free to connect with me for further information</p>
 
 <a href="https://www.linkedin.com/in/oumarou-maiga-b79938280/">
