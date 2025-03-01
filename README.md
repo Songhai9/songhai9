@@ -42,7 +42,7 @@
     - <a href="https://github.com/Songhai9/Internet-Speed-Twitter-Complaint-Bot">Internet Speed Twitter Complaint Bot</a>
     - <a href="https://github.com/Songhai9/Python-Automation-App-Projects/tree/main">Other Automation Programs</a>
 
-<h2🎓 Educational Background</h2>
+<h2>🎓 Educational Background</h2>
 
 - Currently pursuing a degree at <b>Telecom Physique Strasbourg</b>.
 - Also enrolled in a <b>Computer Science Master's Program</b> at the University of Strasbourg.
