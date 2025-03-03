@@ -20,7 +20,7 @@
   - <a href="https://github.com/Songhai9/Breakout-remake-cpp">Breakout game in C</a>
 
 
-- <b>Python projects</b> <br/>
+- <b><a href="https://github.com/Songhai9/python-projects">Python projects</a></b> <br/>
   On top of my education, I furthered my mastery of Python by going through a course conducted by Angela Yu. Here you can find all the projects that were done, going from data analysis, to GUI, to Web development, and automation.<br/>
 
   - <b>OOP Games</b>: These projects were used to learn OOP programming with Python through recreating games
