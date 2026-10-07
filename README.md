@@ -1,60 +1,67 @@
-<h1>Hi<br/><a href="https://github.com/Songhai9">Student</a>, Computer Science</h1>
+# Hi, I'm Oumarou 👋
 
-<p>I'm currently looking for a <b>20-24 week long internship</b> as I'm finishing my <b>double degree</b> (master + engineering school) in <b>computer science</b>. I’m specialized in the fields of Networking and IoT. My education includes skills in networking, systems, cloud, security, and embedded systems. Alongside my education, I've also done some personal projects including a Cloud SOC project and multiple Python-related projects including web apps, games, APIs, etc.<br/>Ideally, I would complete my internship as a developer in either one of the mentioned skills of my curriculum.</p>
+### Cloud · DevOps · Automation
 
-<h2>👨‍💻 Projects and Interests:</h2>
+I build projects to understand the full application delivery lifecycle: development, testing, containerization, infrastructure, and deployment.
 
-- <b>Cloud SOC project</b> :
-  A project aimed at learning how to secure an environment using Azure.
-  - <a href="https://github.com/Songhai9/Cloud-SOC">Honey pot project</a>
+My computer science background at **Télécom Physique Strasbourg** and the **University of Strasbourg** gave me a foundation in networking, systems, cybersecurity, and IoT. My current projects focus on **AWS, Kubernetes, Infrastructure as Code, and CI/CD pipelines**, alongside an interest in **MLOps**.
 
-- <b>Implementing a Cloud native CI/CD pipeline with AWS</b>
-  In this project, I learned how to develop an architecture in AWS using Terraform, and using GitHub Actions to create a pipeline.
-  - <a href="https://github.com/Songhai9/cloud-native-ci-cd-aws">AWS CI/CD Pipeline project</a>
+## 🛠️ Technologies I Use in My Projects
 
-- <b>C Data Structures and Algorithms Practice</b>: School labs in which I learned everything about DSA
-  - <a href="https://github.com/Songhai9/DSA-practice">DSA Practice</a>
+| Area | Technologies |
+| --- | --- |
+| Cloud | AWS — EC2, ECS/Fargate, ECR, S3, IAM, Systems Manager, CloudWatch · Azure |
+| Infrastructure & Configuration | Terraform · Ansible |
+| Containers & Orchestration | Docker · Docker Compose · Kubernetes · Helm |
+| CI/CD | GitHub Actions · GitLab CI · Jenkins |
+| Development | Python · JavaScript · Node.js / Express · Flask · C · C++ |
+| Data & MLOps | PostgreSQL · MLflow · DVC · Comet ML |
+| Security | Microsoft Sentinel · Log Analytics · OIDC · Trivy · Gitleaks |
 
-- <b>School Projects</b>
-  - <a href="https://github.com/Songhai9/Packet-sniffer">Packet Sniffer in C</a>
-  - <a href="https://github.com/Songhai9/Breakout-remake-cpp">Breakout game in C</a>
+## 🚀 Featured Projects
 
+### Anime Review — From Application to Kubernetes
 
-- <b><a href="https://github.com/Songhai9/python-projects">Python projects</a></b> <br/>
-  On top of my education, I furthered my mastery of Python by going through a course conducted by Angela Yu. Here you can find all the projects that were done, going from data analysis, to GUI, to Web development, and automation.<br/>
+An anime and manga library application that serves as a learning path from local Docker Compose development to a private Kubernetes cluster on AWS.
 
-  - <b>OOP Games</b>: These projects were used to learn OOP programming with Python through recreating games
-    - <a href="https://github.com/Songhai9/OOP-Games.git">OOP Games</a>
+- **Application:** Node.js, Express, PostgreSQL, automated tests, and Docker images for multiple architectures.
+- **Infrastructure:** AWS resources provisioned with Terraform and a kubeadm cluster configured with Ansible through Systems Manager.
+- **Delivery:** Helm deployments, GitHub Actions and GitLab CI pipelines, AWS authentication through OIDC, and network isolation between workloads.
 
-  - <b>GUI Apps</b>: The projects use Tkinter to create Apps relying on a GUI
-    - <a href="https://github.com/Songhai9/GUI-Apps">GUI Quiz App</a>
-    - <a href="https://github.com/Songhai9/GUI-Apps">Other GUI Apps</a>
+[Application](https://github.com/Songhai9/anime-review-app) · [Infrastructure](https://github.com/Songhai9/anime-review-infra) · [Kubernetes & Deployment](https://github.com/Songhai9/anime-review-k8s)
 
-  - <b>API Programming</b>: These projects were made to learn how to interact with REST APIs using Python.
-    - <a href="https://github.com/Songhai9/Workout-Tracker">Workout Tracker</a>
-    - <a href="https://github.com/Songhai9/Habits-Tracker">Habit Tracker</a>
-    - <a href="https://github.com/Songhai9/GUI-Quiz-App">GUI Quiz App</a>
-    - <a href="https://github.com/Songhai9/API-Programming/tree/main">Other REST API Projects</a>
+### Book Notes — An End-to-End DevOps Portfolio
 
-  - <b>Python Automation Projects</b>: In these projects, I use web scraping with the BeautifulSoup library and the Selenium library to automate some tasks.
-    - <a href="https://github.com/Songhai9/Amazon-Automated-Price-Tracker">Amazon Automated Price Tracker</a>
-    - <a href="https://github.com/Songhai9/Spotify-Playlist-with-Musical-Time-Machine">Spotify Playlist with Musical Time Machine</a>
-    - <a href="https://github.com/Songhai9/Internet-Speed-Twitter-Complaint-Bot">Internet Speed Twitter Complaint Bot</a>
-    - <a href="https://github.com/Songhai9/Python-Automation-App-Projects/tree/main">Other Automation Programs</a>
+A reading tracker with its own AWS infrastructure and Kubernetes deployment. The project brings together unit and integration tests, security checks, Docker images, Terraform, Ansible, Helm, and HTTP routing through Envoy Gateway.
 
-<h2>🎓 Educational Background</h2>
+[Application](https://github.com/Songhai9/books) · [Infrastructure](https://github.com/Songhai9/books-infra) · [Kubernetes](https://github.com/Songhai9/books-k8s)
 
-- Currently pursuing a degree at <b>Telecom Physique Strasbourg</b>.
-- Also enrolled in a <b>Computer Science Master's Program</b> at the University of Strasbourg.
-- Focus areas include cybersecurity, software development, networking, IoT & cloud.
+### Cloud-Native Deployment on AWS
 
-<h2>📞 Connect with me:</h2>
-<p>Feel free to connect with me for further information</p>
+An architecture built with **ECS/Fargate, ECR, and an Application Load Balancer**, with infrastructure managed through Terraform, CI/CD through GitHub Actions, and monitoring through CloudWatch.
 
-<a href="https://www.linkedin.com/in/oumarou-maiga-b79938280/">
-  <img align="left" alt="Oumarou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+[Explore the project](https://github.com/Songhai9/cloud-native-ci-cd-aws)
 
-<a href="mailto:oumar.s.m@outlook.fr">
-  <img align="left" alt="Oumarou | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+### Cloud SOC — Cybersecurity on Azure
+
+A honeynet with log collection through Log Analytics and threat detection through Microsoft Sentinel. The project compares observed security events before and after hardening the environment.
+
+[Explore the project](https://github.com/Songhai9/Cloud-SOC)
+
+### Machine Learning & MLOps
+
+- [Anime Recommender System](https://github.com/Songhai9/anime-recommender-system): hybrid recommendations, experiment tracking, data versioning, and deployment with Docker, Jenkins, and Kubernetes.
+- [Hotel Reservation Prediction](https://github.com/Songhai9/hotel_reservation_predition): a booking cancellation prediction pipeline, MLflow experiment tracking, and a containerized Flask application.
+
+## 💻 More Projects
+
+- [Python Projects](https://github.com/Songhai9/python-projects): automation, APIs, desktop interfaces, and games.
+- [Packet Sniffer in C](https://github.com/Songhai9/Packet-sniffer): a network packet capture project.
+- [Breakout in C++](https://github.com/Songhai9/Breakout-remake-cpp): a recreation of the brick-breaking game.
+- [Data Structures & Algorithms](https://github.com/Songhai9/DSA-practice): exercises and practical assignments.
+
+## 🤝 Let's Connect
+
+Feel free to reach out to discuss cloud, DevOps, cybersecurity, or any of my projects.
+
+[LinkedIn](https://www.linkedin.com/in/oumarou-maiga-b79938280/) · [Email](mailto:oumar.s.m@outlook.fr)
