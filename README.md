@@ -30,12 +30,6 @@ An anime and manga library application that serves as a learning path from local
 
 [Application](https://github.com/Songhai9/anime-review-app) · [Infrastructure](https://github.com/Songhai9/anime-review-infra) · [Kubernetes & Deployment](https://github.com/Songhai9/anime-review-k8s)
 
-### Book Notes — An End-to-End DevOps Portfolio
-
-A reading tracker with its own AWS infrastructure and Kubernetes deployment. The project brings together unit and integration tests, security checks, Docker images, Terraform, Ansible, Helm, and HTTP routing through Envoy Gateway.
-
-[Application](https://github.com/Songhai9/books) · [Infrastructure](https://github.com/Songhai9/books-infra) · [Kubernetes](https://github.com/Songhai9/books-k8s)
-
 ### Cloud-Native Deployment on AWS
 
 An architecture built with **ECS/Fargate, ECR, and an Application Load Balancer**, with infrastructure managed through Terraform, CI/CD through GitHub Actions, and monitoring through CloudWatch.
